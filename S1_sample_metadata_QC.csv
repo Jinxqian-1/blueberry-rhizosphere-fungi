@@ -1,0 +1,41 @@
+﻿SampleID,Group,Site,Latitude,Longitude,Soil_description,Host_group,Cultivar,Compartment,Replicate,Input_reads_DADA2,Filtered_reads,Denoised_reads,Nonchimeric_reads,Rarefied_reads,BioProject,BioSample,Run
+HFBs1,HFBs,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",Bs,Not applicable,Bulk,1,83112,82415,81450,81450,62958,PRJNA1551003,Processing,Processing
+HFBs2,HFBs,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",Bs,Not applicable,Bulk,2,77526,77526,76766,76766,62958,PRJNA1551003,Processing,Processing
+HFBs3,HFBs,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",Bs,Not applicable,Bulk,3,63584,63584,62958,62958,62958,PRJNA1551003,Processing,Processing
+HFBs4,HFBs,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",Bs,Not applicable,Bulk,4,87560,87560,86869,86836,62958,PRJNA1551003,Processing,Processing
+HFBs5,HFBs,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",Bs,Not applicable,Bulk,5,68779,68779,67942,67942,62958,PRJNA1551003,Processing,Processing
+HFNHB1,HFNHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",NHB,Not recorded,Rhizosphere,1,87277,87277,86885,86728,62958,PRJNA1551003,Processing,Processing
+HFNHB2,HFNHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",NHB,Not recorded,Rhizosphere,2,65339,65339,64728,64560,62958,PRJNA1551003,Processing,Processing
+HFNHB3,HFNHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",NHB,Not recorded,Rhizosphere,3,73536,73535,72940,72940,62958,PRJNA1551003,Processing,Processing
+HFNHB4,HFNHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",NHB,Not recorded,Rhizosphere,4,82477,82477,81880,81460,62958,PRJNA1551003,Processing,Processing
+HFNHB5,HFNHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",NHB,Not recorded,Rhizosphere,5,79210,79210,78630,78505,62958,PRJNA1551003,Processing,Processing
+HFRB1,HFRB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",RB,Not recorded,Rhizosphere,1,90504,90504,89897,89897,62958,PRJNA1551003,Processing,Processing
+HFRB2,HFRB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",RB,Not recorded,Rhizosphere,2,67680,67680,67019,67019,62958,PRJNA1551003,Processing,Processing
+HFRB3,HFRB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",RB,Not recorded,Rhizosphere,3,91083,91081,90292,90292,62958,PRJNA1551003,Processing,Processing
+HFRB4,HFRB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",RB,Not recorded,Rhizosphere,4,82633,82631,81991,81989,62958,PRJNA1551003,Processing,Processing
+HFRB5,HFRB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",RB,Not recorded,Rhizosphere,5,88173,88172,87567,87404,62958,PRJNA1551003,Processing,Processing
+HFSHB1,HFSHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",SHB,O'Neal,Rhizosphere,1,82897,82740,82377,81744,62958,PRJNA1551003,Processing,Processing
+HFSHB2,HFSHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",SHB,O'Neal,Rhizosphere,2,87073,87073,86684,86146,62958,PRJNA1551003,Processing,Processing
+HFSHB3,HFSHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",SHB,O'Neal,Rhizosphere,3,118241,118241,117756,116610,62958,PRJNA1551003,Processing,Processing
+HFSHB4,HFSHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",SHB,O'Neal,Rhizosphere,4,90732,90732,90296,89254,62958,PRJNA1551003,Processing,Processing
+HFSHB5,HFSHB,Hefei,31°40′N,117°16′E,"Drained former paddy soil, sulfur amended",SHB,O'Neal,Rhizosphere,5,81317,81316,80893,79463,62958,PRJNA1551003,Processing,Processing
+HNBs1,HNBs,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,Bs,Not applicable,Bulk,1,91398,91398,90952,88919,62958,PRJNA1551003,Processing,Processing
+HNBs2,HNBs,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,Bs,Not applicable,Bulk,2,88792,88792,87752,87112,62958,PRJNA1551003,Processing,Processing
+HNBs3,HNBs,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,Bs,Not applicable,Bulk,3,73136,73134,72054,70392,62958,PRJNA1551003,Processing,Processing
+HNBs4,HNBs,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,Bs,Not applicable,Bulk,4,91943,91943,90703,90568,62958,PRJNA1551003,Processing,Processing
+HNBs5,HNBs,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,Bs,Not applicable,Bulk,5,93778,93777,92529,92315,62958,PRJNA1551003,Processing,Processing
+HNSHB1,HNSHB,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,SHB,O'Neal,Rhizosphere,1,87866,87863,87551,65475,62958,PRJNA1551003,Processing,Processing
+HNSHB2,HNSHB,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,SHB,O'Neal,Rhizosphere,2,98619,98618,98225,97892,62958,PRJNA1551003,Processing,Processing
+HNSHB3,HNSHB,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,SHB,O'Neal,Rhizosphere,3,70265,70265,69847,69725,62958,PRJNA1551003,Processing,Processing
+HNSHB4,HNSHB,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,SHB,O'Neal,Rhizosphere,4,91819,91819,91313,90986,62958,PRJNA1551003,Processing,Processing
+HNSHB5,HNSHB,Huaining,30°38′N,116°42′E,Red and yellow-brown hill soils,SHB,O'Neal,Rhizosphere,5,76154,76154,75641,75588,62958,PRJNA1551003,Processing,Processing
+XCBs1,XCBs,Xuancheng,30°14′N,118°30′E,Red-yellow soil,Bs,Not applicable,Bulk,1,85975,85971,85712,76792,62958,PRJNA1551003,Processing,Processing
+XCBs2,XCBs,Xuancheng,30°14′N,118°30′E,Red-yellow soil,Bs,Not applicable,Bulk,2,64897,64897,64110,63336,62958,PRJNA1551003,Processing,Processing
+XCBs3,XCBs,Xuancheng,30°14′N,118°30′E,Red-yellow soil,Bs,Not applicable,Bulk,3,84053,84051,83317,82544,62958,PRJNA1551003,Processing,Processing
+XCBs4,XCBs,Xuancheng,30°14′N,118°30′E,Red-yellow soil,Bs,Not applicable,Bulk,4,88117,88116,87556,85901,62958,PRJNA1551003,Processing,Processing
+XCBs5,XCBs,Xuancheng,30°14′N,118°30′E,Red-yellow soil,Bs,Not applicable,Bulk,5,109266,109266,108809,108809,62958,PRJNA1551003,Processing,Processing
+XCSHB1,XCSHB,Xuancheng,30°14′N,118°30′E,Red-yellow soil,SHB,O'Neal,Rhizosphere,1,84586,84585,83839,83622,62958,PRJNA1551003,Processing,Processing
+XCSHB2,XCSHB,Xuancheng,30°14′N,118°30′E,Red-yellow soil,SHB,O'Neal,Rhizosphere,2,78260,78260,77890,76295,62958,PRJNA1551003,Processing,Processing
+XCSHB3,XCSHB,Xuancheng,30°14′N,118°30′E,Red-yellow soil,SHB,O'Neal,Rhizosphere,3,87737,87736,87398,87263,62958,PRJNA1551003,Processing,Processing
+XCSHB4,XCSHB,Xuancheng,30°14′N,118°30′E,Red-yellow soil,SHB,O'Neal,Rhizosphere,4,81256,81255,80787,80465,62958,PRJNA1551003,Processing,Processing
+XCSHB5,XCSHB,Xuancheng,30°14′N,118°30′E,Red-yellow soil,SHB,O'Neal,Rhizosphere,5,66659,66659,66267,66171,62958,PRJNA1551003,Processing,Processing

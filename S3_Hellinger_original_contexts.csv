@@ -1,0 +1,3 @@
+"Context","n","ASVs","R2","F","P","ANOSIM_R","ANOSIM_P","Transformation","Distance","Input"
+"Host",20,2745,0.515812014254286,5.68167218176488,1e-04,0.637333333333333,1e-04,"Hellinger","Bray-Curtis","Host_counts.tsv"
+"Site",30,5825,0.476677897090106,4.37217135165886,1e-04,0.326044444444444,1e-04,"Hellinger","Bray-Curtis","Site_counts.tsv"

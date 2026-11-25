@@ -1,0 +1,2 @@
+Context,N,Df,R2,F,P,ANOSIM_R,ANOSIM_P,Distance_input
+SHB_sites,15,2,0.465506270959406,5.22557604327721,1e-04,0.328,0.0013,Bray_Curtis_provider_40.tsv

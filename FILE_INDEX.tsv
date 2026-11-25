@@ -1,0 +1,37 @@
+File	Data_rows	Fields
+tables/S10_soil_CV.csv	24	Site; Compartment; Variable; n; Mean; SD; CV_percent
+tables/S11_LEfSe_Host_source.csv	249	Comparison; Taxa; Method; Group; LDA; P.unadj; P.adj; Significance; Background; Nominal_P; Adjustment_status
+tables/S11_LEfSe_LDA4_figure_markers.csv	79	Comparison; Taxa; Method; Group; LDA; P.unadj; P.adj; Significance; Background; Nominal_P; Adjustment_status
+tables/S11_LEfSe_Site_source.csv	388	Comparison; Taxa; Method; Group; LDA; P.unadj; P.adj; Significance; Background; Nominal_P; Adjustment_status
+tables/S1_Hefei_ASV_intersections.csv	15	Pattern; ASVs
+tables/S1_sample_metadata_QC.csv	40	SampleID; Group; Site; Latitude; Longitude; Soil_description; Host_group; Cultivar; Compartment; Replicate; Input_reads_DADA2; Filtered_reads; Denoised_reads; Nonchimeric_reads; Rarefied_reads; BioProject; BioSample; Run
+tables/S1_six_unit_ASVs.csv	6	Unit; Union_ASVs; Unique_ASVs
+tables/S1_six_unit_intersection.csv	1	Six_unit_intersection
+tables/S1_strict_core_counts.csv	11	Scope; N; Strict_core
+tables/S2_alpha_Dunn_allpairs_BH.csv	63	Context; Metric; Comparison; Z; P.unadj; Q
+tables/S2_alpha_Kruskal_Wallis.csv	6	Context; Metric; H; df; P
+tables/S2_alpha_per_sample.csv	40	SampleID; chao1; shannon; simpson; observed_features; goods_coverage; dominance; pielou_e; Group; Site; Compartment; Host
+tables/S2_alpha_planned_Wilcoxon_BH.csv	18	Context; Metric; Group1; Group2; W; P; Q
+tables/S2_alpha_summary.csv	30	Context; Metric; Group; Mean; SD; N
+tables/S3_Hellinger_Host_coordinates.csv	20	SampleID; Group; PCoA1; PCoA2
+tables/S3_Hellinger_original_contexts.csv	2	Context; n; ASVs; R2; F; P; ANOSIM_R; ANOSIM_P; Transformation; Distance; Input
+tables/S3_Hellinger_Site_coordinates.csv	30	SampleID; Group; PCoA1; PCoA2
+tables/S3_original_pairwise_Host_SOURCE.csv	3	Control; Treat; R2; F_value; P_original; P_adjusted; Signif
+tables/S3_original_pairwise_Site_SOURCE.csv	15	Group1; Group2; R2; F_value; P_original; P_adjusted; Signif
+tables/S3_SHB_sites.csv	1	Context; N; Df; R2; F; P; ANOSIM_R; ANOSIM_P; Distance_input
+tables/S4_Hellinger_PERMDISP.csv	2	Context; n; F; P; Input; Transformation
+tables/S4_SHB_sites.csv	1	Context; F; P; N; Distance_input
+tables/S5_DESeq2_all_fitted_results.csv	1633	Context; Results_alpha; Selected; Comparison; Control; Treatment; Genus; baseMean; log2FoldChange; lfcSE; stat; pvalue; padj; Regulation
+tables/S5_DESeq2_prefilter.csv	3375	Context; Comparison; Genus; CountSum; PrefilterPassed
+tables/S6_genus_relative_per_sample.csv	29720	Genus; SampleID; Relative; Group
+tables/S6_phylum_relative_per_sample.csv	760	Taxon; SampleID; Relative; Group
+tables/S6_taxonomic_planned_Wilcoxon_BH.csv	256	Context; Rank; Family; Taxon; Group1; Group2; N1; N2; Mean1_pct; SD1_pct; Mean2_pct; SD2_pct; FoldChange; W; P; Q; Family_n; Tested; Significant
+tables/S7_FUNGuild_means.csv	32	Mode; Group; Percent
+tables/S7_FUNGuild_per_sample.csv	160	Mode; SampleID; Percent; Group
+tables/S7_FUNGuild_planned_tests_BH.csv	18	Context; Group1; Group2; Mode; Mean1; SD1; Mean2; SD2; P; Q
+tables/S7b_FUNGuild_cross_site_Kruskal_Wallis_BH.csv	6	Compartment; Mode; H; df; P; Q; Family_n
+tables/S7c_FUNGuild_cross_site_Wilcoxon_BH.csv	18	Compartment; Mode; Group1; Group2; n1; n2; Mean1_percent; Mean2_percent; W; P; Q; Family_n
+tables/S8_site_descriptors.csv	3	Site; Latitude; Longitude; Soil_description
+tables/S9_soil_host_group_summary.csv	32	Site; Compartment; Group; Host; Variable; n; Mean; SD; CV_percent
+tables/S9_soil_site_compartment_summary.csv	24	Site; Compartment; Variable; n; Mean; SD; CV_percent
+tables/S9_soil_source_records.csv	40	Source_sample; Site; Group; Compartment; Host; Total_C_g_kg; Total_N_g_kg; Total_P_g_kg; Total_K_g_kg; Source_sheet; Source_row
