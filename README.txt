@@ -1,7 +1,6 @@
 SUPPLEMENTAL FILE 2
 Host cultivar and geographic region jointly structure blueberry rhizosphere fungal communities with no detectable sequence-variant core
 
-
 Dataset
 Forty ITS1 amplicon samples from eight groups, with five biological replicates per group. The Hefei host comparison contains HFBs, HFNHB, HFRB and HFSHB (20 samples). The site comparison contains HFBs, HFSHB, HNBs, HNSHB, XCBs and XCSHB (30 samples). The shared Hefei samples are reused observations. They are not additional replicates, and their counts are never summed across contexts. The SHB-only comparison contains 15 samples from the same cultivar at the three sites.
 
@@ -34,3 +33,7 @@ The two scripts reproduce supplementary statistical tables from the supplied pro
 
 Sequence archive
 BioProject PRJNA1551003; SRA submission tracking SUB16589303. Formal BioSample/Run accessions and reviewer access details remain pending, as stated in the manuscript. Representative ASV sequences in this supplement do not replace deposition of raw reads in SRA.
+
+Repository
+https://github.com/Jinxqian-1/blueberry-rhizosphere-fungi
+The repository preserves the inputs/, tables/ and code/ structure used by both scripts.
